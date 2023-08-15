@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459859182596",
+    "project_id": "brick-factory-e7d44",
+    "storage_bucket": "brick-factory-e7d44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459859182596:android:c10b4cc531c76ee6032151",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459859182596-ogaubflqoae86kgbpc0lgq3ddrrtot9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHpZmpFSeGy0tnLr9wNvVpS2xgRVgJnt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459859182596-ogaubflqoae86kgbpc0lgq3ddrrtot9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
